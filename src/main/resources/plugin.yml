@@ -1,0 +1,4 @@
+name: Welcomer
+version: '${version}'
+main: timur.pivovar.fonteanarchy.Welcomer
+api-version: '1.20'
